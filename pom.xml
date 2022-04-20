@@ -10,7 +10,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>bootcamp.microservices.clients</groupId>
-	<artifactId>microservice-clients</artifactId>
+	<artifactId>microservice-companies</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>microservice-clients</name>
 	<description>Demo project for Spring Boot</description>
